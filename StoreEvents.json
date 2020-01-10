@@ -191,6 +191,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "sapperraid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -336,5 +341,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 67
+	"total": 68
 }
